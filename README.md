@@ -1,7 +1,7 @@
 # TOL-Trainer
 Note: This project is originally hosted [here](https://github.com/IOLTaiwan/TOL_Trainer). It points to my old GitHub account which is now out of use. The setup instructions is adapted from the work of [@puerdon](https://github.com/puerdon).
 
-##Summary
+## Summary
 TOL-Trainer is a Flask application for creating, storing and hosting competitive linguistics questions. Users can log in, view and solve the assigned questions. Administrators can view and grade each response, as well as add and modify questions. User and question information is stored via SQLite.
 
 ## Setup
