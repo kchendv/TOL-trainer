@@ -1,5 +1,6 @@
 # TOL-Trainer
 Note: This project is originally hosted [here](https://github.com/IOLTaiwan/TOL_Trainer). It points to my old GitHub account which is now out of use. The setup instructions is adapted from the work of [@puerdon](https://github.com/puerdon).
+
 <img width="585" alt="tol" src="https://github.com/kchendv/TOL-trainer/assets/74445110/0f181d7b-84ff-4009-82a4-ae6ef0984130">
 
 ## Summary
